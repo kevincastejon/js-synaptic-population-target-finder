@@ -1,18 +1,14 @@
 # js-synaptic-population-target-finder
 
-<img src="public/brFlag.png" width="15px" /> An evolving neural network teaching foxes to walk to the chicken!
+<img src="public/brFlag.png" width="15px" /> An evolving neural network teaching foxes to walk to the chicken! This a is usage example of [synaptic-population](https://www.npmjs.com/package/synaptic-population) package.
 
-<img src="public/frFlag.png" width="15px" /> Un réseau de neurones évolutif apprenant aux renards à attraper la poule!
+<img src="public/frFlag.png" width="15px" /> Un réseau de neurones évolutif apprenant aux renards à attraper la poule! Ceci est un exemple d'utilisation du module [synaptic-population](https://www.npmjs.com/package/synaptic-population).
+
+
 
 ## Online Demo
 
 [Online demo : https://kevincastejon.fr/demos/deep-learning-demo-target-finder/](https://kevincastejon.fr/demos/deep-learning-demo-target-finder/)
-
-## Credits
-
-<img src="public/brFlag.png" width="15px" /> This program is built over [synapticjs](https://caza.la/synaptic/#/) library.
-
-<img src="public/frFlag.png" width="15px" /> Ce programme fut réalisé grâce à la librairie [synapticjs](https://caza.la/synaptic/#/).
 
 ## <img src="public/brFlag.png" width="25px" /> How it works
 ## <img src="public/frFlag.png" width="25px" /> Fonctionnement
