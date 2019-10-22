@@ -1,0 +1,70 @@
+body{
+  text-align: center
+}
+#app{
+
+}
+#header{
+  margin: 5px;
+  /* margin-top: 80px; */
+}
+.inputsHeaders{
+  width: 190px
+}
+.inputs{
+  margin: auto;
+  margin-top: 5px;
+  width: 300px;
+}
+.gameInputs{
+  /* background-color: red; */
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 300px;
+  /* white-space: nowrap; */
+}
+.gameBtns{
+  width: 100px;
+
+}
+.firstTrainedPop{
+  height: 100%;
+  width: 300px;
+  /* margin: auto; */
+}
+.trainedPop{
+  height: 100%;
+  width: 300px;
+  margin: auto;
+}
+
+#initRow{
+  margin: auto;
+max-width: 700px;
+}
+#initTrainedDiv{
+/* display: inline-flex; */
+}
+#initBtn{
+  margin: 10px;
+}
+.textArea{
+  resize: none;
+  /* margin-top: 20px;
+  white-space: nowrap; */
+}
+/* #langSelector{
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+.flag{
+margin-left: 0px
+} */
+#speedControl{
+  width: 200px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}

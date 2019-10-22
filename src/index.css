@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+@import '~react-notifications-component/dist/theme.css';
+
+#canvasHolder{
+
+}
+#gameCanvas{
+  position: relative;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+}
